@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\bin\Debug\KeyLoggerCSharp.exe.config
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\bin\Debug\KeyLoggerCSharp.exe
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\bin\Debug\KeyLoggerCSharp.pdb
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\obj\Debug\KeyLoggerCSharp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\obj\Debug\KeyLoggerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\obj\Debug\KeyLoggerCSharp.exe
+C:\Users\user\source\repos\KeyLoggerCSharp\KeyLoggerCSharp\obj\Debug\KeyLoggerCSharp.pdb
